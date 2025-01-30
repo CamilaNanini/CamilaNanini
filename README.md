@@ -3,10 +3,10 @@
     <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </p>
 
-<h2 style="color: #A76EE6;">About my . . .</h2>
-I am a Computer Science undergraduate student, currently in the third year of my program with 60% progress completed. 
-I stand out for my adaptability, teamwork skills, punctuality, and responsibility. Additionally, I possess time management and 
-task prioritization abilities, as well as a proactive attitude.
+<h2 style="color: #A76EE6;">About me . . .</h2>
+I am a fourth-year Computer Science student with a strong foundation in software development. 
+I enjoy tackling new challenges and learning how to solve them. I am eager to apply my skills to real-world projects 
+and gain industry experience.
 
 <h2 style="color: #A76EE6;">My Skills</h2>
 
@@ -34,9 +34,14 @@ task prioritization abilities, as well as a proactive attitude.
 ![Static Badge](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React-%23458ea3?style=flat&logo=react)
 ![Static Badge](https://img.shields.io/badge/Jira-%2388b1ed?style=flat&logo=jira)
 ![Static Badge](https://img.shields.io/badge/PowerBI-%23ece91a?style=flat)
+
+<h3 style="color: #fa8e9a; font-family: Tahoma; font-size: 20px;">I'm learning:</h3>
+
+![Static Badge](https://img.shields.io/badge/NodeJs-%231e3319?logo=Node.js)
+![Static Badge](https://img.shields.io/badge/React-%23458ea3?style=flat&logo=react)
+![Static Badge](https://img.shields.io/badge/MicroPython-%2350494b?logo=MicroPython)
 
 <h2 align="center" style="color: #A76EE6;">⚙️ GitHub Analytics</h2>
 <p align="center">
