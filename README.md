@@ -36,13 +36,19 @@ and gain industry experience.
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jira-%2388b1ed?style=flat&logo=jira)
+![Static Badge](https://img.shields.io/badge/Google%20Workspace-%232e154e?logo=google)
+![Static Badge](https://img.shields.io/badge/LibreOffice-%2318A303?logo=libreoffice)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Office-%230bd1a4)
 ![Static Badge](https://img.shields.io/badge/PowerBI-%23ece91a?style=flat)
+![Static Badge](https://img.shields.io/badge/Notion-%2300011a?logo=notion)
+![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?logo=wordpress)
+
 
 <h3 style="color: #fa8e9a; font-family: Tahoma; font-size: 20px;">I'm learning:</h3>
 
 ![Static Badge](https://img.shields.io/badge/NodeJs-%231e3319?logo=Node.js)
 ![Static Badge](https://img.shields.io/badge/React-%23458ea3?style=flat&logo=react)
-![Static Badge](https://img.shields.io/badge/MicroPython-%2350494b?logo=MicroPython)
+![Static Badge](https://img.shields.io/badge/Dotnet-%23512BD4?logo=dotnet)
 
 <h2 align="center" style="color: #A76EE6;">⚙️ GitHub Analytics</h2>
 <p align="center">
