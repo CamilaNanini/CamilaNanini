@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #A76EE6;">Hi, I'm Camila Nanini</h1>
 <p align="center">
 <!--     <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-	<img align="center" alt="GIF" src="https://media.licdn.com/dms/image/v2/D4E22AQECwEn2u5w33g/feedshare-shrink_800/B4EZTw5qefHUAk-/0/1739208438309?e=1742428800&v=beta&t=p1OkMyA7QvSJ74tU5i9AtdF5We-_Gc-zXKc5VSHW5sw" />
+	<img align="center" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJuYnRmODdueWVpNzdsZjI4Yng0Z242enlqMDVjazRoNWJlODducyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" />
 </p>
 
 <h2 style="color: #A76EE6;">About me . . .</h2>
